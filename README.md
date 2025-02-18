@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed 
-- 👀 I’m interested in AI & Ml
-- 🌱 I’m currently learning computer vision
+- 👀 I’m AI & Ml Engineer 
+- 🌱 I’m currently learning LLMs, Agents, Rag
 
 
 <!---
